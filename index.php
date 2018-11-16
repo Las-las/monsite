@@ -37,26 +37,30 @@
                                 Nos produits
                                 </a>
                                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    <a class="dropdown-item" href="#">Action</a>
-                                    <a class="dropdown-item" href="#">Another action</a>
+                                    <a class="dropdown-item" href="#">Plats chauds</a>
+                                    <a class="dropdown-item" href="#">Plats tièdes</a>
                                     <div class="dropdown-divider"></div>
-                                    <a class="dropdown-item" href="#">Something else here</a>
+                                    <a class="dropdown-item" href="#">Plats froids</a>
                                 </div>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link disabled" href="#">Disabled</a>
+                                <a class="nav-link disabled" href="#">Mon panier</a>
                             </li>
                         </ul>
+
                         <form class="form-inline my-2 my-lg-0">
-                            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-                            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                            <input class="form-control mr-sm-2" type="search" placeholder="Recherche" aria-label="Search">
+                            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Recherche</button>
                         </form>
                     </div>
                 </nav>
+
+                <div>
+                    <p>J'ai rajouté du code ************************************************************************</p>
+                </div>
+
+            </div>
         </div>
-
-
-    </div>
 
             
 

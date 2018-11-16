@@ -1,0 +1,43 @@
+[1mdiff --git a/index.php b/index.php[m
+[1mindex 2686253..055113c 100644[m
+[1m--- a/index.php[m
+[1m+++ b/index.php[m
+[36m@@ -37,26 +37,30 @@[m
+                                 Nos produits[m
+                                 </a>[m
+                                 <div class="dropdown-menu" aria-labelledby="navbarDropdown">[m
+[31m-                                    <a class="dropdown-item" href="#">Action</a>[m
+[31m-                                    <a class="dropdown-item" href="#">Another action</a>[m
+[32m+[m[32m                                    <a class="dropdown-item" href="#">Plats chauds</a>[m
+[32m+[m[32m                                    <a class="dropdown-item" href="#">Plats tièdes</a>[m
+                                     <div class="dropdown-divider"></div>[m
+[31m-                                    <a class="dropdown-item" href="#">Something else here</a>[m
+[32m+[m[32m                                    <a class="dropdown-item" href="#">Plats froids</a>[m
+                                 </div>[m
+                             </li>[m
+                             <li class="nav-item">[m
+[31m-                                <a class="nav-link disabled" href="#">Disabled</a>[m
+[32m+[m[32m                                <a class="nav-link disabled" href="#">Mon panier</a>[m
+                             </li>[m
+                         </ul>[m
+[32m+[m
+                         <form class="form-inline my-2 my-lg-0">[m
+[31m-                            <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">[m
+[31m-                            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>[m
+[32m+[m[32m                            <input class="form-control mr-sm-2" type="search" placeholder="Recherche" aria-label="Search">[m
+[32m+[m[32m                            <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Recherche</button>[m
+                         </form>[m
+                     </div>[m
+                 </nav>[m
+[31m-        </div>[m
+ [m
+[32m+[m[32m                <div>[m
+[32m+[m[32m                    <p>J'ai rajouté du code ************************************************************************</p>[m
+[32m+[m[32m                </div>[m
+ [m
+[31m-    </div>[m
+[32m+[m[32m            </div>[m
+[32m+[m[32m        </div>[m
+ [m
+             [m
+ [m
